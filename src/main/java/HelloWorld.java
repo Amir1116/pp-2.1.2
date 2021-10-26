@@ -1,3 +1,8 @@
+package main.java;
+
+import org.springframework.stereotype.Component;
+
+@Component
 public class HelloWorld {
  
     private String message;
